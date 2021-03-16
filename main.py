@@ -9,7 +9,7 @@ from morra_cinese import *
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
-BOT_TOKEN = "1597644050:AAGxFK13ok4ylaDHAWLsWoetJKrYhBixIs4"
+BOT_TOKEN
 
 def main():
 
